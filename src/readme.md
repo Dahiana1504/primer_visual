@@ -1,0 +1,3 @@
+Hay muchas variaciones de los pasajes de Lorem Ipsum 
+disponibles, pero la mayori sufri alteraciones en alguna manera, ya sea porque se le agrego humor, o palabras aleatorias que no parecen ni un poco creibles. Si vas a 
+utilizar un pasaje de Lorem Ipsum, necesitas estar seguro de que no hay nada avergonzante escondido en el medio del texto. Todos los niceeradores de Lorem Ipsum que se encuentran en Internet tienden a repetir trozos predefinidos cuando sea necesario, haciendo a este el unico niceerador verdadero (valido) en la Internet. Usa un diccionario de mas de 200 palabras provenientes del latin, combinadas con estructuras muy utiles de sentencias, para niceerar texto de Lorem Ipsum que parezca razonable
